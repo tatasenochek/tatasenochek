@@ -17,8 +17,8 @@
 
 ### Навыки:
 Frontend: •	HTML •	CSS •	SCSS •	JavaScript •	TypeScript •	React •	Redux \
-Инструменты: •	Webpack •	Vite •	Git •	Figma •	Jest •	Cypress •	Docker \
+Инструменты: •	Webpack •	Vite •	Git •	Figma •	Jest \
 Дизайн и UI: •	Tilda •	Tailwind CSS •	Bootstrap \
-Базы данных: •	MongoDB •	Firebase 
+Базы данных: •	Firebase •	mockAPI
 
 
